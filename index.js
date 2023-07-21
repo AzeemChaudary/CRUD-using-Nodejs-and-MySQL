@@ -33,3 +33,7 @@ const port = 8080;
 app.listen(port, () => {
   console.log(`Listening on port ${port}..`);
 });
+
+
+// https://www.edureka.co/blog/node-js-mysql-tutorial/
+// This CRUD is made with the help of this tutorial 
